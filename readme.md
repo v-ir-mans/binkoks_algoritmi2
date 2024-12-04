@@ -1,5 +1,5 @@
-# Binārais meklēšanas koks (???)
-
+# Binārais meklēšanas koks
+---
 ## Darba nodošana
 
 Izveidot BMK, realizējot darbības:
